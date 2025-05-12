@@ -1,4 +1,15 @@
-# override the custom footer being inserted by Github
+div a {
+    line-height: 1.5;
+}
+
+div a:after {
+    content: "";
+    display: block;
+    height: 0;
+    width: 1px;
+}
+
+/* override the custom footer being inserted by Github */
 .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
     display: none;
 }
