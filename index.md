@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # Summary
 
 This is a reference to Github-based content from BARN Studios.
