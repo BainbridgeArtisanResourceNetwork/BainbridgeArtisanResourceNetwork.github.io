@@ -1,5 +1,5 @@
 # Summary
 
-This is a reference to other Github-based content from BARN Studios.
+This is a reference to Github-based content from BARN Studios.
 
 [Tech Lab Links](https://bainbridgeartisanresourcenetwork.github.io/tech-lab-links/)
